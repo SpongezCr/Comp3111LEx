@@ -4,4 +4,4 @@
 
 This repo is Lab1 of COMP3111 in HKUST.
 
-<img src="./screenshot.png" alt="screenshot of IDE">
+![screenshot of IDE](./screenshot.png)
